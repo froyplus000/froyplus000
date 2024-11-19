@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, I'm Folk:
 I’m currently studying Bachelor of Computer Science degree with Swinburne University of Technology<br>I'm majoring Software Development<br>I'm learning and pursuing job position like Full Stack, Mobile Developer or IOS Developer<br>I'm also interesting in Game Development, which I will spend my free time learning about this.<br>
 
 
