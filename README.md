@@ -3,7 +3,8 @@
 💻 I'm majoring in Software Development.<br>
 🚀 I'm learning and pursuing job positions like Full Stack Developer, Mobile Developer, or iOS Developer.<br>
 🎮 I'm also interested in Game Development, which I will spend my free time learning about.<br>
-
+<br>
+Personal Website: https://pattarapol-tantechasa.vercel.app/
 [![](https://visitcount.itsvg.in/api?id=froyplus000&icon=3&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
