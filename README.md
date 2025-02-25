@@ -5,7 +5,7 @@
 🎮 I'm also interested in Game Development, which I will spend my free time learning about.<br>
 <br>
 Personal Website: https://pattarapol-tantechasa.vercel.app/
-[![](https://visitcount.itsvg.in/api?id=froyplus000&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=froyplus000&icon=3&color=12)](https://visitcount.itsvg.in) <br>
 Email: pattarapol_tan@hotmail.com
 
 ## 🌐 Socials:
