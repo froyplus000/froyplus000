@@ -6,7 +6,6 @@
 <br>
 Personal Website: https://pattarapol-tantechasa.vercel.app/
 [![](https://visitcount.itsvg.in/api?id=froyplus000&icon=3&color=12)](https://visitcount.itsvg.in) <br>
-Email: pattarapol_tan@hotmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pattarapol-tantechasa-6275a1121/)   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pattarapoltantechasa)   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://pattarapol.hashnode.dev/) 
