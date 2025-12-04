@@ -14,7 +14,7 @@
 
 ### Fun Facts
 
-- I like Game Development, will definitely create my first indie game. When I have time.
-- I like taking care of myself, and cooking but not so much of exercising.
+- I like Game Development🎮, will definitely create my first indie game🔥. When I have time🥹
+- I like taking care of myself, and cooking🥘 but not so much of exercising😣
 - Reading Books weather it's for programming or fiction.
 
