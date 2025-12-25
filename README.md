@@ -10,10 +10,11 @@
 - Development Tools : Git & GitHub, Docker, PostmanAPI, BrunoAPI, Swagger
 - Management Tools : Trello, Jira, Confluence
 
-> Focus on Learning : .NET & Deployment to AWS
+> Focus on Learning : .NET & Deployment to AWS 
 
 ### Fun Facts
 
+- I learning web design and development for brand story telling with meaningful animation with GSAP
 - I like Game Development 🎮, will definitely create my first indie game🔥 When I have time 🥹
 - I enjoy taking care of myself, and cooking 🥘 but not so much of exercising 😣
 - I also love reading books, whether they’re about programming or fiction.
